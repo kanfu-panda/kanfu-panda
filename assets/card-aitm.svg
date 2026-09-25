@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="232" viewBox="0 0 640 232" role="img" aria-label="aitm — An AI-native terminal for macOS">
+<defs>
+  <linearGradient id="bga" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1a1e2a"/><stop offset="1" stop-color="#11141b"/></linearGradient>
+  <radialGradient id="gla" cx="0.92" cy="0.08" r="0.75"><stop offset="0" stop-color="#9f86ff" stop-opacity="0.20"/><stop offset="1" stop-color="#9f86ff" stop-opacity="0"/></radialGradient>
+</defs>
+<rect x="0.5" y="0.5" width="639" height="231" rx="16" fill="url(#bga)" stroke="#2c3242"/>
+<rect x="0.5" y="0.5" width="639" height="231" rx="16" fill="url(#gla)"/>
+<text x="32" y="62" font-family="'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="30" font-weight="700" fill="#b3a1ff">aitm</text>
+<text x="608" y="58" text-anchor="end" font-family="'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#6b7482">open source ↗</text>
+<text x="32" y="104" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#f0f3f6">An AI-native terminal for macOS</text>
+<text x="32" y="136" font-family="'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13.5" fill="#6b7482">the AI is a colleague in your shell, not a sidebar</text>
+<rect x="32" y="170" width="90" height="30" rx="15" fill="#1f2533" stroke="#2c3242"/><text x="77.0" y="190" text-anchor="middle" font-family="'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#9aa4b2">5.3 MB</text><rect x="132" y="170" width="128" height="30" rx="15" fill="#1f2533" stroke="#2c3242"/><text x="196.0" y="190" text-anchor="middle" font-family="'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#9aa4b2">3–5 ms start</text><rect x="270" y="170" width="136" height="30" rx="15" fill="#1f2533" stroke="#2c3242"/><text x="338.0" y="190" text-anchor="middle" font-family="'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#9aa4b2">Tauri 2 · Rust</text>
+</svg>
